@@ -1,0 +1,13 @@
+# no .replit files
+.replit
+
+# no replit.nix files
+replit.nix
+
+# ignore all files in venv/ directory
+venv/
+
+# ignore console.clear()
+__pycache__/
+poetry.lock
+pyproject.toml
